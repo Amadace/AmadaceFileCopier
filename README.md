@@ -11,3 +11,5 @@ Note:
 <br>
 -This tool does <b>not</b> warn you if an existing file exists with the same name, and will overwrite it.
 <br>-This tool does <b>not</b> warn you if there is insufficient storage remaining, and will stop writing when there is no space available, but display a 100% completion & success message.
+<br>-Remember to click "Clear Inputs" if you want to copy other file(s) after a job has been completed.
+
