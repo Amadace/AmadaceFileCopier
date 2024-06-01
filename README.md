@@ -10,4 +10,4 @@ A simple file(s) copier which shows you details like File transfer speed, ETA (d
 Note:
 <br>
 -This tool does <b>not</b> warn you if an existing file exists with the same name, and will overwrite it.
-<br>-This tool does <b>not</b> warn you if there is insufficient storage remaining, and will stop writing when there is no space available, but display a 100% completion.
+<br>-This tool does <b>not</b> warn you if there is insufficient storage remaining, and will stop writing when there is no space available, but display a 100% completion & success message.
