@@ -2,10 +2,11 @@ A simple file(s) copier which shows you details like File transfer speed, ETA (d
 
 <img width="894" alt="image" src="https://github.com/Amadace/AmadaceFileCopier/assets/167440476/7143eafc-0cea-40e1-bf53-8ed03c55ab2b">
 
+<br><br>
 Installation Tip: Apple by default blocks apps which they have not approved (for which they charge $99). Therefore, to open this app, you have to go to settings, Privacy & Security, and click "Open Anyway" as follows:
 ![image](https://github.com/Amadace/AmadaceFileCopier/assets/167440476/5d8a7b4b-847a-4e29-81ac-ccfade301ff8)
-
-Note:
+<br><br>
+<red>Note:</red>
 
 This tool does not warn you if an existing file exists with the same name, and will overwrite it.
 This tool does not warn you if there is insufficient storage remaining, and will stop writing when there is no space available, but display a 100% completion.
